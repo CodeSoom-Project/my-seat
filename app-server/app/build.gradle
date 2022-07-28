@@ -66,6 +66,9 @@ dependencies {
 
     // Asciidoctor
     asciidoctorExtensions 'org.springframework.restdocs:spring-restdocs-asciidoctor'
+
+    // Spring Security
+    implementation 'org.springframework.boot:spring-boot-starter-security'
 }
 
 application {
